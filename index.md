@@ -7,9 +7,23 @@
 
 From Hadley Wickham's ['Tidy Data', 2014] (https://www.jstatsoft.org/article/view/v059i10)
 
-#You can use the [editor on GitHub](https://github.com/ehbaker/Icefields-to-Oceans-Project-Data-Management/edit/master/index.md) to #maintain and preview the content for your website in Markdown files.
+# Scientific Computing
 
-#Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from #the content in your Markdown files.
+### Important steps to reproducibility, and joint method development
+
+Data Management: saving both raw and intermediate forms; documenting all steps; creating tidy data amenable to analysis.
+- Software: writing, organizing, and sharing scripts and programs used in an analysis.
+- Collaboration: making it easy for existing and new collaborators to understand and contribute to a project.
+- Project Organization: organizing the digital artifacts of a project to ease discovery and understanding.
+- Tracking Changes: recording how various components of your project change over time.
+- Manuscripts: writing manuscripts in a way that leaves an audit trail and minimizes manual merging of conflict.
+
+From Software Carpentry's ["Good Enough Practices in Scientific Computing"] (https://arxiv.org/abs/1609.00037)
+
+
+You can use the [editor on GitHub](https://github.com/ehbaker/Icefields-to-Oceans-Project-Data-Management/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
