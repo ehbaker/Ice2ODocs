@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+# 'Tidy' Data
+
+### Best practices for storing data
+-Each variable forms a column
+-Each observation forms a row
+-Each observational unit forms a table
+
+From Hadley Wickham's 'Tidy Data', 2014
+[Link] (https://www.jstatsoft.org/article/view/v059i10)
 
 You can use the [editor on GitHub](https://github.com/ehbaker/Icefields-to-Oceans-Project-Data-Management/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
 
 ### Markdown
 
