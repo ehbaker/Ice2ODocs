@@ -5,7 +5,7 @@
 - Each observation forms a row
 - Each observational unit forms a table
 
-From Hadley Wickham's ['Tidy Data', 2014] (https://www.jstatsoft.org/article/view/v059i10)
+From Hadley Wickham's ['Tidy Data', 2014](https://www.jstatsoft.org/article/view/v059i10)
 
 # Scientific Computing
 
@@ -18,7 +18,7 @@ Data Management: saving both raw and intermediate forms; documenting all steps; 
 - Tracking Changes: recording how various components of your project change over time.
 - Manuscripts: writing manuscripts in a way that leaves an audit trail and minimizes manual merging of conflict.
 
-From Software Carpentry's ["Good Enough Practices in Scientific Computing"] (https://arxiv.org/abs/1609.00037)
+From Software Carpentry's ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037)
 
 
 You can use the [editor on GitHub](https://github.com/ehbaker/Icefields-to-Oceans-Project-Data-Management/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
