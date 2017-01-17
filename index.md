@@ -9,7 +9,7 @@ From Hadley Wickham's ['Tidy Data', 2014](https://www.jstatsoft.org/article/view
 
 # Scientific Computing
 
-### Important steps to reproducibility, and joint method development
+### Important steps to reproducibility, and group computing
 
 Data Management: saving both raw and intermediate forms; documenting all steps; creating tidy data amenable to analysis.
 - Software: writing, organizing, and sharing scripts and programs used in an analysis.
@@ -20,10 +20,24 @@ Data Management: saving both raw and intermediate forms; documenting all steps; 
 
 From Software Carpentry's ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037)
 
+# Python Solutions
+## Package Installation on Windows
 
-You can use the [editor on GitHub](https://github.com/ehbaker/Icefields-to-Oceans-Project-Data-Management/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+First thing's first: before installing any packages, [create a new environment](http://conda.pydata.org/docs/using/envs.html), so you don't inadvertently mess up the root environment. It's a good thing to always a clean root you're always able to access, should something go wrong down the road.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To install a needed package try:
+```markdown
+1. conda install package
+2. pip install package
+  - if an SSL error is thrown from within the network, add pypi as a trusted site for a single install with:
+    pip install --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org  package
+3. 
+
+ 
+
+*pygeoprocessing* on windows:
+pip install --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org  pygeoprocessing
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
