@@ -5,16 +5,11 @@
 - Each observation forms a row
 - Each observational unit forms a table
 
-From Hadley Wickham's 'Tidy Data', 2014
-[Link] (https://www.jstatsoft.org/article/view/v059i10)
+From Hadley Wickham's ['Tidy Data', 2014] (https://www.jstatsoft.org/article/view/v059i10)
 
-You can use the [editor on GitHub](https://github.com/ehbaker/Icefields-to-Oceans-Project-Data-Management/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#You can use the [editor on GitHub](https://github.com/ehbaker/Icefields-to-Oceans-Project-Data-Management/edit/master/index.md) to #maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
-
+#Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from #the content in your Markdown files.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
