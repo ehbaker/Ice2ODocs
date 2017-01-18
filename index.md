@@ -58,6 +58,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](img src="/images/cat.jpg")
+<img align="left" src="/images/cat.jpg" width="250" height="250" />
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
