@@ -45,6 +45,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 [Link](https://github.com/ehbaker/Ice2ODocs/edit/master/index.md) and ![Cat](/images/cat.jpg)
 
+![FolderStructure](/images/FolderStructure.PNG)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
