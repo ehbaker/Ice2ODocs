@@ -20,7 +20,7 @@ From Hadley Wickham's ['Tidy Data', 2014](https://www.jstatsoft.org/article/view
 # Project Organization, or, 'keepin' it all together'!
 - Put each project in its own directory, which is named after the project.
 - Put text documents associated with the project in the **doc** directory.
-- Put raw data and metadata in the **data** directory, and files generated during cleanup and analysis in a results directory.
+- Put raw data and metadata in the **data** directory, and files generated during cleanup and analysis in a **results** directory.
 - Put source for the project’s scripts and programs in the **src** directory
 - Name all files to reflect their content or function.
 
@@ -42,12 +42,14 @@ Also from Software Carpentry's ["Good Enough Practices in Scientific Computing"]
 The detail on these broad points is very illuminating.
 
 # Python Solutions
-First thing's first: before installing any packages, [create a new environment](http://conda.pydata.org/docs/using/envs.html), so you don't inadvertently mess up the root environment. It's a good thing to always a clean root you're always able to access, should something go wrong down the road.
+First thing's first: before installing any packages, [create a new environment](http://conda.pydata.org/docs/using/envs.html), so you don't inadvertently mess up the root environment. It's a good thing to always have a clean root you're always able to access, should something go wrong down the road.
+
+If you're new(ish) to Python, downloading Anaconda is a great way to start. It comes bundled with many useful packages pre-compiled, and ready to use. 
 
 To install a needed package try these (until one works):
 
 ```python
-1. conda install package
+1. conda install package [if you're using Anaconda]
 2. pip install package
 3. easy_install package
 ```
