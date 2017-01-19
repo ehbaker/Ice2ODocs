@@ -65,6 +65,22 @@ It's kept separately, as it relates to IT security, and is only accessible to US
 
 [Repo Markdown](https://github.com/ehbaker/Ice2ODocs/edit/master/index.md)
 
+# Fantastic Tutorials
+ **Software Carpentry:**
+ [Git and GitHub](http://swcarpentry.github.io/git-novice/)
+ [Python Basics](http://swcarpentry.github.io/python-novice-inflammation/)
+ 
+** Geohackweek (eScience):**
+ [Rasters in Python](https://geohackweek.github.io/raster/)
+ [Vector Data in Python](https://geohackweek.github.io/vector/)
+ [Other Tutorials](https://geohackweek.github.io/)- links in calendar
+ 
+ **Data Carpentry:**
+ [Dos and Don'ts in Spreadsheet Design](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)
+ Data Carpentry has lots of great tutorials ... in R. At this point, the group is going with Python for open-source collaborations, but FYI :)
+ 
+ 
+ 
  
 ![Cat](/Ice2ODocs/images/cat.jpg)
  
