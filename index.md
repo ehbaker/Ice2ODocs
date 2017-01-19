@@ -1,17 +1,19 @@
 # 'Tidy' Data
 
-# Changed
-
-### Best practices for storing data
+## Best practices for storing data
 - Each variable forms a column
 - Each observation forms a row
 - Each observational unit forms a table
 
 From Hadley Wickham's ['Tidy Data', 2014](https://www.jstatsoft.org/article/view/v059i10)
 
-# Scientific Computing
-
-### Important steps to reproducibility, and group computing
+## Project Organization
+### Or, 'keep it together'!
+- Put each project in its own directory, which is named after the project.
+- Put text documents associated with the project in the *doc* directory.
+- Put raw data and metadata in the *data* directory, and files generated during cleanup and analysis in a results directory.
+- Put source for the project’s scripts and programs in the *src* directory
+- Name all files to reflect their content or function.
 
 Data Management: saving both raw and intermediate forms; documenting all steps; creating tidy data amenable to analysis.
 - Software: writing, organizing, and sharing scripts and programs used in an analysis.
@@ -28,13 +30,6 @@ From Software Carpentry's ["Good Enough Practices in Scientific Computing"](http
 First thing's first: before installing any packages, [create a new environment](http://conda.pydata.org/docs/using/envs.html), so you don't inadvertently mess up the root environment. It's a good thing to always a clean root you're always able to access, should something go wrong down the road.
 
 To install a needed package try:
-```markdown
-1. conda install package
-2. pip install package
-3. easy\_install package
-```
-SOme stuff outside of the boxes?
-
 ```
 1. conda install package
 2. pip install package
