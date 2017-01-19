@@ -12,9 +12,11 @@
 - Multiple types of observational units are stored in the same table. 
 - A single observational unit is stored in multiple tables.
 
+![TidyData](/Ice2ODocs/images/NotTidy.png)
+
 From Hadley Wickham's ['Tidy Data', 2014](https://www.jstatsoft.org/article/view/v059i10)
 
-## Project Organization, or, 'keepin' it all together'!
+# Project Organization, or, 'keepin' it all together'!
 - Put each project in its own directory, which is named after the project.
 - Put text documents associated with the project in the **doc** directory.
 - Put raw data and metadata in the **data** directory, and files generated during cleanup and analysis in a results directory.
@@ -34,6 +36,9 @@ From Software Carpentry's ["Good Enough Practices in Scientific Computing"](http
 - Project Organization: organizing the digital artifacts of a project to ease discovery and understanding.
 - Tracking Changes: recording how various components of your project change over time.
 - Manuscripts: writing manuscripts in a way that leaves an audit trail and minimizes manual merging of conflict.
+
+Also from Software Carpentry's ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037)
+The detail on these broad points is very illuminating.
 
 # Python Solutions
 First thing's first: before installing any packages, [create a new environment](http://conda.pydata.org/docs/using/envs.html), so you don't inadvertently mess up the root environment. It's a good thing to always a clean root you're always able to access, should something go wrong down the road.
