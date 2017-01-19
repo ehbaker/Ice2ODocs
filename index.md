@@ -29,6 +29,12 @@ To install a needed package try:
 ```markdown
 1. conda install package
 2. pip install package
+3. easy\_install package
+```
+
+```markdown
+1. conda install package
+2. pip install package
   - if an SSL error is thrown from within the network, add pypi as a trusted site for a single install with:
     pip install --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org  package
 3. 
@@ -42,21 +48,8 @@ pip install --index-url=http://pypi.python.org/simple/ --trusted-host pypi.pytho
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-```
 [Link](url) and ![Cat](/images/cat.jpg)
 <img align="left" src="/images/cat.jpg" width="250" height="250" />
 
