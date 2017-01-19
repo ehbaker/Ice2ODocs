@@ -20,17 +20,19 @@ From Hadley Wickham's ['Tidy Data', 2014](https://www.jstatsoft.org/article/view
 # Project Organization, or, 'keepin' it all together'!
 - Put each project in its own directory, which is named after the project.
 - Put text documents associated with the project in the **doc** directory.
-- Put raw data and metadata in the **data** directory, and files generated during cleanup and analysis in a **results** directory.
-- Put source for the project’s scripts and programs in the **src** directory
+- Put raw data and metadata in the **data/raw** directory, and files generated during cleanup and analysis in a **data/processed/date** directory. A README.txt file should live in each data folder, and have the minimum information about source, and what has changed in each version of a dataset. 
+- Put source for the project’s scripts and programs in the **src** directory. Functions which are generalized and can be called in many anlysis scripts should be pulled out into a **functions** sub-folder. Scripts for data pre-processing/ cleaning go in a **munge** sub-folder.
 - Name all files to reflect their content or function.
 
 See an example folder structure below:
 
 ![folder2](/Ice2ODocs/images/FolderStructure.PNG)
 
-From Software Carpentry's ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037)
-[A slightly different formulation](http://v4.software-carpentry.org/data/mgmt.html), also from Software Carpentry
-This formulation suggests keeping 
+From a combination of Software Carpentry's ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) and 
+[A slightly different formulation](http://v4.software-carpentry.org/data/mgmt.html), also from Software Carpentry.
+
+- Store data in a hierarchy of folders and files with regular names that can easily be pattern-matched.
+- Use README files to store metadata.
 
 # Data Management 
 - Saving both raw and intermediate forms; documenting all steps; creating tidy data amenable to analysis.
