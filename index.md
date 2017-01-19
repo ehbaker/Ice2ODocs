@@ -1,5 +1,7 @@
 # 'Tidy' Data
 
+# Changed
+
 ### Best practices for storing data
 - Each variable forms a column
 - Each observation forms a row
@@ -32,26 +34,19 @@ To install a needed package try:
 3. easy\_install package
 ```
 SOme stuff outside of the boxes?
-```markdown
+
+```
 1. conda install package
 2. pip install package
-  - if an SSL error is thrown from within the network, add pypi as a trusted site for a single install with:
-    pip install --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org  package
-3. 
+3. easy_install package
 ```
- 
- Are we outside of the *boxes* again _really_
-*pygeoprocessing* on windows:
-pip install --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org  pygeoprocessing
+
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
-
-[Link](url) and ![Cat](/images/cat.jpg)
-
+[Link](https://github.com/ehbaker/Ice2ODocs/edit/master/index.md) and ![Cat](/images/cat.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
