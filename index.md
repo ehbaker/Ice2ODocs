@@ -5,6 +5,13 @@
 - Each observation forms a row
 - Each observational unit forms a table
 
+## Common Problems
+- Column headers are values, not variable names. 
+- Multiple variables are stored in one column. 
+- Variables are stored in both rows and columns. 
+- Multiple types of observational units are stored in the same table. 
+- A single observational unit is stored in multiple tables.
+
 From Hadley Wickham's ['Tidy Data', 2014](https://www.jstatsoft.org/article/view/v059i10)
 
 ## Project Organization, or, 'keepin' it all together'!
@@ -33,7 +40,7 @@ First thing's first: before installing any packages, [create a new environment](
 
 To install a needed package try:
 
-```
+```python
 1. conda install package
 2. pip install package
 3. easy_install package
