@@ -10,10 +10,12 @@ From Hadley Wickham's ['Tidy Data', 2014](https://www.jstatsoft.org/article/view
 ## Project Organization
 ### Or, 'keep it together'!
 - Put each project in its own directory, which is named after the project.
-- Put text documents associated with the project in the *doc* directory.
-- Put raw data and metadata in the *data* directory, and files generated during cleanup and analysis in a results directory.
-- Put source for the project’s scripts and programs in the *src* directory
+- Put text documents associated with the project in the **doc** directory.
+- Put raw data and metadata in the **data** directory, and files generated during cleanup and analysis in a results directory.
+- Put source for the project’s scripts and programs in the **src** directory
 - Name all files to reflect their content or function.
+
+
 
 Data Management: saving both raw and intermediate forms; documenting all steps; creating tidy data amenable to analysis.
 - Software: writing, organizing, and sharing scripts and programs used in an analysis.
