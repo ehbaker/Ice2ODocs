@@ -29,6 +29,8 @@ See an example folder structure below:
 ![folder2](/Ice2ODocs/images/FolderStructure.PNG)
 
 From Software Carpentry's ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037)
+[A slightly different formulation](http://v4.software-carpentry.org/data/mgmt.html), also from Software Carpentry
+This formulation suggests keeping 
 
 # Data Management 
 - Saving both raw and intermediate forms; documenting all steps; creating tidy data amenable to analysis.
@@ -86,6 +88,8 @@ It's kept separately, as it relates to IT security, and is only accessible to US
  
  [Dos and Don'ts in Spreadsheet Design](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)
  Data Carpentry has lots of great tutorials ... in R. At this point, the group is going with Python for open-source collaborations, but FYI :)
+ 
+ 
  
  
  
