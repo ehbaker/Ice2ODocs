@@ -8,7 +8,7 @@
 From Hadley Wickham's ['Tidy Data', 2014](https://www.jstatsoft.org/article/view/v059i10)
 
 ## Project Organization
-## Or, 'keepin' it all together'!
+### Or, 'keepin' it all together'!
 - Put each project in its own directory, which is named after the project.
 - Put text documents associated with the project in the **doc** directory.
 - Put raw data and metadata in the **data** directory, and files generated during cleanup and analysis in a results directory.
