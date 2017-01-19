@@ -20,8 +20,8 @@ See an example folder structure below:
 
 ![FolderStructure](/images/FolderStructure.PNG)
 
-![folder](Ice2ODocs/images/FolderStructure.PNG)
-![folder](/Ice2ODocs/images/FolderStructure.PNG)
+![folder1](Ice2ODocs/images/FolderStructure.PNG)
+![folder2](/Ice2ODocs/images/FolderStructure.PNG)
 
 
 Data Management: saving both raw and intermediate forms; documenting all steps; creating tidy data amenable to analysis.
