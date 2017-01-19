@@ -27,7 +27,6 @@ First thing's first: before installing any packages, [create a new environment](
 
 To install a needed package try:
 ```markdown
-```markdown
 1. conda install package
 2. pip install package
   - if an SSL error is thrown from within the network, add pypi as a trusted site for a single install with:
@@ -58,7 +57,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](img src="/images/cat.jpg")
+[Link](url) and ![Cat](/images/cat.jpg)
 <img align="left" src="/images/cat.jpg" width="250" height="250" />
 ```
 
