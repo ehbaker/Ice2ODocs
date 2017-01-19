@@ -8,7 +8,7 @@
 From Hadley Wickham's ['Tidy Data', 2014](https://www.jstatsoft.org/article/view/v059i10)
 
 ## Project Organization
-### Or, 'keepin' it all together'!
+## Or, 'keepin' it all together'!
 - Put each project in its own directory, which is named after the project.
 - Put text documents associated with the project in the **doc** directory.
 - Put raw data and metadata in the **data** directory, and files generated during cleanup and analysis in a results directory.
@@ -19,13 +19,11 @@ See an example folder structure below:
 
 ![folder2](/Ice2ODocs/images/FolderStructure.PNG)
 
-1. Each project goes in its own directory, which is named after the project (e.g. Mass Balance)
-  -What is a distinct project? Something that shares < 1/2 code or data with other projects.
-2. Text documents go in the 'doc' directory
-3. Raw data (and metadata) go in data/raw directory. Processed/ cleaned go into data/processed
-4. files generated after cleanup or analysis go in 'results'
 
-Data Management: saving both raw and intermediate forms; documenting all steps; creating tidy data amenable to analysis.
+Data Management 
+- saving both raw and intermediate forms; documenting all steps; creating tidy data amenable to analysis.
+- d;l
+
 - Software: writing, organizing, and sharing scripts and programs used in an analysis.
 - Collaboration: making it easy for existing and new collaborators to understand and contribute to a project.
 - Project Organization: organizing the digital artifacts of a project to ease discovery and understanding.
