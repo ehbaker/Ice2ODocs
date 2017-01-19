@@ -68,11 +68,14 @@ It's kept separately, as it relates to IT security, and is only accessible to US
 # Fantastic Tutorials
  **Software Carpentry:**
  [Git and GitHub](http://swcarpentry.github.io/git-novice/)
+ 
  [Python Basics](http://swcarpentry.github.io/python-novice-inflammation/)
  
 ** Geohackweek (eScience):**
  [Rasters in Python](https://geohackweek.github.io/raster/)
+ 
  [Vector Data in Python](https://geohackweek.github.io/vector/)
+ 
  [Other Tutorials](https://geohackweek.github.io/)- links in calendar
  
  **Data Carpentry:**
