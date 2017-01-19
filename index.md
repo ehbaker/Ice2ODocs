@@ -67,11 +67,13 @@ It's kept separately, as it relates to IT security, and is only accessible to US
 
 # Fantastic Tutorials
  **Software Carpentry:**
+ 
  [Git and GitHub](http://swcarpentry.github.io/git-novice/)
  
  [Python Basics](http://swcarpentry.github.io/python-novice-inflammation/)
  
-** Geohackweek (eScience):**
+**Geohackweek (eScience):**
+
  [Rasters in Python](https://geohackweek.github.io/raster/)
  
  [Vector Data in Python](https://geohackweek.github.io/vector/)
@@ -79,6 +81,7 @@ It's kept separately, as it relates to IT security, and is only accessible to US
  [Other Tutorials](https://geohackweek.github.io/)- links in calendar
  
  **Data Carpentry:**
+ 
  [Dos and Don'ts in Spreadsheet Design](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)
  Data Carpentry has lots of great tutorials ... in R. At this point, the group is going with Python for open-source collaborations, but FYI :)
  
