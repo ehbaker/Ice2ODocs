@@ -27,6 +27,7 @@ First thing's first: before installing any packages, [create a new environment](
 
 To install a needed package try:
 ```markdown
+```markdown
 1. conda install package
 2. pip install package
   - if an SSL error is thrown from within the network, add pypi as a trusted site for a single install with:
