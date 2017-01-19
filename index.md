@@ -12,6 +12,7 @@
 - Multiple types of observational units are stored in the same table. 
 - A single observational unit is stored in multiple tables.
 
+For Example: observations stored as columns, not rows
 ![TidyData](/Ice2ODocs/images/NotTidy.png)
 
 From Hadley Wickham's ['Tidy Data', 2014](https://www.jstatsoft.org/article/view/v059i10)
