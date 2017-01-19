@@ -38,7 +38,7 @@ From Software Carpentry's ["Good Enough Practices in Scientific Computing"](http
 # Python Solutions
 First thing's first: before installing any packages, [create a new environment](http://conda.pydata.org/docs/using/envs.html), so you don't inadvertently mess up the root environment. It's a good thing to always a clean root you're always able to access, should something go wrong down the road.
 
-To install a needed package try:
+To install a needed package try these (until one works):
 
 ```python
 1. conda install package
