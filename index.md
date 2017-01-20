@@ -59,7 +59,7 @@ If you're new(ish) to Python, downloading Anaconda is a great way to start. It c
 To install a needed package try these (until one works):
 
 ```python
-1. conda install package [if you're using Anaconda]
+1. conda install package [on Anaconda]
 2. pip install package
 3. easy_install package
 ```
