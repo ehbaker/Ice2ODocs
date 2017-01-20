@@ -4,7 +4,7 @@ title: simple site
 tagline: Easy websites with GitHub Pages
 ---
 
-# 'Tidy' Data
+# 'Tidy' Data UPDATE
 
 ## Best practices for storing data
 - Each variable forms a column
