@@ -1,10 +1,4 @@
----
-layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
----
-
-# 'Tidy' Data UPDATE
+# 'Tidy' Data
 
 ## Best practices for storing data
 - Each variable forms a column
