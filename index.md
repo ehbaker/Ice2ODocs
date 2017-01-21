@@ -15,7 +15,12 @@
 For Example: observations stored as columns, not rows
 ![TidyData](/Ice2ODocs/images/NotTidy.png)
 
-From Hadley Wickham's ['Tidy Data', 2014](https://www.jstatsoft.org/article/view/v059i10)
+From Hadley Wickham's ['Tidy Data', 2014](https://www.jstatsoft.org/article/view/v059i10) Worth a read - much more relevant to day-to-day challenges than one might imagine!
+
+## Formats for Ice2O Database
+- Dates: YYYY-MM-DD
+- Date and Time: YYYY-MM-DD HH:MM:SS (on 24-hr clock)
+- Projection - Alaska Albers (epsg 3338) prefered, but can transform on ingestion to database if not possible.
 
 # Project Organization, or, 'keepin' it all together'!
 - Put each project in its own directory, which is named after the project.
