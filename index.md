@@ -25,8 +25,8 @@ From Hadley Wickham's ['Tidy Data', 2014].(https://www.jstatsoft.org/article/vie
 # Project Organization, or, 'keepin' it all together'!
 - Put each project in its own directory, which is named after the project.
 - Put text documents associated with the project in the **doc** directory.
-- Put raw data and metadata in the **data/raw** directory, and files generated during cleanup and analysis in a **data/processed/date** directory. A README.txt file should live in each data folder, and have the minimum information about source, and what has changed in each version of a dataset. 
-- Put source for the project’s scripts and programs in the **src** directory. Functions which are generalized and can be called in many anlysis scripts should be pulled out into a **functions** sub-folder. Scripts for data pre-processing/ cleaning go in a **munge** sub-folder.
+- Put raw data and metadata in the **data/raw/date** directory, and files generated during cleanup and analysis in a **data/processed/date** directory. This date mirrors **raw/date**, and reflects date collected, not processed. Source code for processing data should be placed in the **processed** folder as well; if processing was performed in Excel, or other non-coding environment, a README.txt should describe what processing was done to raw data, and how it was accomplished (repeatability!). A README.txt file should live in each data folder, and have the minimum information about source, and what has changed in each version of a dataset. 
+- Put source for the project’s analysis in the **src** directory. Functions which are generalized and can be called in many anlysis scripts should be pulled out into a **functions** sub-folder. Scripts for data pre-processing/ cleaning go in a **munge** sub-folder.
 - Name all files to reflect their content or function.
 
 See an example folder structure below:
