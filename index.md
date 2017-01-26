@@ -81,7 +81,7 @@ It's kept separately, as it relates to IT security, and is only accessible to US
 # Access to network drives
 _Python_: `cd /D Q:` (for e.g. a drive named Q)
 
-_Git_: (bash shell): cd /q/
+_Git_: (bash shell): `cd /q/`
 
 # Fantastic Tutorials
  **Software Carpentry:**
