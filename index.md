@@ -89,6 +89,8 @@ _Git_: (bash shell): `cd /q/`
  
  [Python Basics](http://swcarpentry.github.io/python-novice-inflammation/)
  
+ [Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/)
+ 
 **Geohackweek (eScience):**
 
  [Rasters in Python](https://geohackweek.github.io/raster/)
