@@ -36,7 +36,7 @@ See an example folder structure below:
 
 ![folder2](/Ice2ODocs/images/FolderStructure.PNG)
 
-From a combination of Software Carpentry's **"Good Enough Practices in Scientific Computing"** ([journal version](https://arxiv.org/abs/1609.00037), [dynamic version](https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/)). and [A slightly different formulation](http://v4.software-carpentry.org/data/mgmt.html), also from Software Carpentry.
+From a combination of Software Carpentry's **"Good Enough Practices in Scientific Computing"** ([journal version](https://arxiv.org/abs/1609.00037), [dynamic version](https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/)) and [A slightly different formulation](http://v4.software-carpentry.org/data/mgmt.html), also from Software Carpentry.
 
 - Store data in a hierarchy of folders and files with regular names that can easily be pattern-matched.
 - Use README files to store metadata.
