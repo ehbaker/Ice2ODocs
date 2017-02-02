@@ -105,6 +105,9 @@ _Git_: (bash shell): `cd /q/`
  Data Carpentry has lots of great tutorials ... in R. At this point, the group is going with Python for open-source collaborations, but FYI :)
  
  # GitHub at the USGS
+ 
+ # Header 1
+ 
  Sign up for aUSGS github account with your official email. [Directions here:](http://butst.usgs.gov/open-source/)
  
 ![Cat](/Ice2ODocs/images/cat.jpg)
