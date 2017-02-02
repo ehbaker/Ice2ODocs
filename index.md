@@ -107,9 +107,6 @@ _Git_: (bash shell): `cd /q/`
  # GitHub at the USGS
  Sign up for aUSGS github account with your official email. [Directions here:](http://butst.usgs.gov/open-source/)
  
- 
- 
- 
 ![Cat](/Ice2ODocs/images/cat.jpg)
  
  [Link to next page](Database Connection.md)
