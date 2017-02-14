@@ -53,9 +53,11 @@ Also from Software Carpentry's ["Good Enough Practices in Scientific Computing"]
 The detail on these broad points is very illuminating.
 
 # Python Solutions
-First thing's first: before installing any packages, [create a new environment](http://conda.pydata.org/docs/using/envs.html), so you don't inadvertently mess up the root environment. It's a good thing to always have a clean root you're always able to access, should something go wrong down the road.
-
 If you're new(ish) to Python, downloading Anaconda is a great way to start. It comes bundled with many useful packages pre-compiled, and ready to use. 
+
+Python is a _language_, not a program; there are many programs/ GUIS that can be used to write in Python. Two come bundled with your Anaconda distribution: the **Jupyter Notebook** and **Spyder**. There are benefits to both; Jupyter Noteboks display output in-line, while Spyder allows execution of code blocks that are highlighted (vs. entire cell in Jupyter). 
+
+If you're used to Matlab or RStudio, I'd recommend **Spyder**.
 
 To install a needed package try these (until one works):
 
