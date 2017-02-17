@@ -67,6 +67,8 @@ To install a needed package try these (until one works):
 3. easy_install package
 ```
 
+Details on installation of specific packages is [here](https://docs.google.com/a/doi.gov/document/d/12Y2SeO2jWcnpX3a8UlA82wHAYDtfq6yG6VnUgOzblfo/edit?usp=sharing) (please add to it if you have success with a tricky one)!
+
 ## Package Installation on Windows
 As most users of Python are on linux/unix platforms, using windows can add a few wrinkles. At times, a python module you want will not be available for a windows machine on normal channels (conda, pip). Packages compiled for windows are available here: many thanks to the maintainers at UC Irvine!
 [Wheel (.whl) package installation files for Python](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
