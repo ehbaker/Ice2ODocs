@@ -57,7 +57,7 @@ If you're new(ish) to Python, downloading Anaconda is a great way to start. It c
 
 Python is a _language_, not a program; there are many programs/ GUIS that can be used to write in Python. Two come bundled with your Anaconda distribution: the **Jupyter Notebook** and **Spyder**. There are benefits to both; Jupyter Noteboks display output in-line, while Spyder allows execution of code blocks that are highlighted (vs. entire cell in Jupyter). 
 
-If you're used to Matlab or RStudio, I'd recommend **Spyder**. Also, PyCharm comes highly recommended, can be downloaded [here](https://www.jetbrains.com/pycharm/download/#section=windows).
+If you're used to Matlab or RStudio, I'd recommend **Spyder**. Also, PyCharm comes highly recommended, download [here](https://www.jetbrains.com/pycharm/download/#section=windows).
 
 To install a needed package try these (until one works):
 
