@@ -103,6 +103,11 @@ _Git_: (bash shell): `cd /q/`
  
  [Other Tutorials](https://geohackweek.github.io/)- links in calendar
  
+ ** Python in the Geosciences **
+ [University of Washington Seminar Series - fantastic! Many topics.](https://github.com/uwescience/Python-for-geosciences)
+ 
+ Links to specific tutorials/ seminars in the schedule.
+ 
  **Data Carpentry:**
  
  [Dos and Don'ts in Spreadsheet Design](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)
