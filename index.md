@@ -21,6 +21,7 @@ A readme should contain the following information:
 > -if numeric:
 > 	- give units
 > 	- give uncertainty of measurement
+>  - give theoretical limits, if applicable
 > -if geospatial/ location:
 > 	- give projection in form of EPSG numeric code, as well as common desciption.
 > -For no data values/ blank cells: what is the meaning or cause?
