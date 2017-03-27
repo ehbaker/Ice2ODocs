@@ -1,4 +1,4 @@
-## Formats for Ice2O Database
+## Formats for Ice2O Database :+1:
 - **Dates**: YYYY-MM-DD
 -  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In Excel, this can be done by right-clicking -> Format Cells/ Number/ Custom, and typing 'yyyy-mm-dd' in the dialogue box.
 - **Date and Time**: YYYY-MM-DD HH:MM:SS (on 24-hr clock)
@@ -37,7 +37,7 @@ A readme should contain the following information:
 
 
 
-# 'Tidy' Data
+# 'Tidy' Data :sparkles:
 
 ## Best practices for storing data
 - Each variable forms a column
