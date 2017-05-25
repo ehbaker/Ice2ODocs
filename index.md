@@ -144,6 +144,10 @@ _Git_: (bash shell): `cd /q/`
  Highlights-
  
 + [Accessing ground-based climate data (e.g. SNOTEL, RAWS)](https://github.com/uwescience/Python-for-geosciences/blob/master/20170307/ulmo-Snotel-cuahsiwof.ipynb)
+
+**ArcGIS Trainings Accessible thru USGS (if DOI employee)**
+
+[here- use Arc, if you must... open-source preferred](http://gio.usgs.gov/egis/training/elearning/)
  
 **Data Carpentry:**
  
