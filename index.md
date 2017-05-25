@@ -150,6 +150,9 @@ _Git_: (bash shell): `cd /q/`
 [here- use Arc, if you must... open-source preferred](http://gio.usgs.gov/egis/training/elearning/)
  
 **Data Carpentry:**
+
+[Intro to Python for Sceintists](http://www.datacarpentry.org/python-ecology-lesson/)
+Amazing lessons; similar to Software Carpentry, but topics covered differ. Slicing and dicing Pandas dataframes, plotting using **ggplot** (aka the most beautiful plots you'll see in your life)!
  
  [Dos and Don'ts in Spreadsheet Design](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)
  Data Carpentry has lots of great tutorials ... in R. At this point, the group is going with Python for open-source collaborations, but FYI :)
