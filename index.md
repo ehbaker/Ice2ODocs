@@ -5,39 +5,6 @@
 - **Projection** - Alaska Albers (epsg 3338) prefered, but can transform on ingestion to database if not possible.
 - **Format for Incoming Data** - csv prefered to tab-separated tables
 
-
-## README contents
-- incoming data should be accompanied by a brief descripton README.txt files.
-A readme should contain the following information:
-
-
-> **README**
-> **Overall Description:**
-> - what is your dataset?
-> 
-> **Column Definitions:**
-> - brief desciption of what the column describes
-> - if factor (i.e. categorical/ levels):
-> 	- define each possible level
-> - if numeric:
->   - give units
->   - give uncertainty of measurement
->   - give theoretical limits, if applicable
-> - if geospatial/ location:
->   - give projection in form of EPSG numeric code, as well as common desciption.
-> - For no data values/ blank cells: what is the meaning or cause?
-> 
-> **Methods**
-> - What information about data collection and processing does the end user need to understand and use your data?
-> 
-> **Associated Tables:**
-> - is this table designed to be joined with another, for example location data? If so, mention this file's name and best practices for > the combining process (e.g. 'joined on column A in table ABC and column Z in table XYZ.
-> 
-> **Additional Notes:**
-> - anything else you need to add?
-
-
-
 # 'Tidy' Data
 
 ## Best practices for storing data
