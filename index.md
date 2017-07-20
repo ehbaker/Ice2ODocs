@@ -1,10 +1,3 @@
-## Formats for Ice2O Database
-- **Dates**: YYYY-MM-DD
--  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In Excel, this can be done by right-clicking -> Format Cells/ Number/ Custom, and typing 'yyyy-mm-dd' in the dialogue box.
-- **Date and Time**: YYYY-MM-DD HH:MM:SS (on 24-hr clock)
-- **Projection** - Alaska Albers (epsg 3338) prefered, but can transform on ingestion to database if not possible.
-- **Format for Incoming Data** - csv prefered to tab-separated tables
-
 # 'Tidy' Data
 
 ## Best practices for storing data
