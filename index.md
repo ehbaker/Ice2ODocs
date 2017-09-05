@@ -120,6 +120,13 @@ Amazing lessons; similar to Software Carpentry, but topics covered differ. Slici
 ## GitHub at the USGS
  Sign up for a USGS github account with your official email. [Directions here:](http://butst.usgs.gov/open-source/)
  
+## Creating your own packages
+ To import a self-written module, it's neccessary to add a path (.pth) file to your anaconda installation. Do this for the top-level folder where you plan to keep all your self-written packages. Add a text .pth file to your Anaconda installation, something like:
+"Continuum\Anaconda3\Lib\site-packages", that contains a single-line file of your top-level path where you are storing your module. Similar to [non-anaconda directions here.](http://www.bdnyc.org/2012/09/editing-pythonpath-to-import-modules/)
+ 
+ 
 ![Cat](/Ice2ODocs/images/cat.jpg)
  
  [Link to next page](Database Connection.md)
+ 
+
